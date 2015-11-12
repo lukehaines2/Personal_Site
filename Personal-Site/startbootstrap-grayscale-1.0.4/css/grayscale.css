@@ -373,9 +373,8 @@ body {
 }
 
 #coffee-lounge-img {
-    text-align: center;
-    margin-left: 0 auto;
-    margin-right: 0 auto;
-    max-width: 250px;
-    max-height: 250px;
+    display: block;
+    margin: 0 auto;
+    max-width: 350px;
+    max-height: 350px;
 }
