@@ -261,7 +261,7 @@ a:focus {
     padding-top: 100px;
 }
 
-.download-section {
+.skills-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
@@ -370,4 +370,12 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
+}
+
+#coffee-lounge-img {
+    text-align: center;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+    max-width: 250px;
+    max-height: 250px;
 }
